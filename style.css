@@ -27,3 +27,9 @@ img {
 img:hover {
 	transform: scale(1.15);
 }
+
+body {
+	background-color: #feeffe;
+	background: rgb(255,255,255);
+	background: linear-gradient(145deg, rgba(255,255,255,0.7931547619047619) 0%, rgba(255,237,235,0.9) 89%, rgba(255,237,239,1) 100%);
+}

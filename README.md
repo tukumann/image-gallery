@@ -1,1 +1,1 @@
-# image-gallery-responsive
+# image-slider
